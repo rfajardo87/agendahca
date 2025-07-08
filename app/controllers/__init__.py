@@ -1,0 +1,7 @@
+from .CitaController import CitaController
+from .ComponentsController import ComponentsController
+from .EmpleadoController import EmpleadoController
+from .PacienteController import PacienteController
+from .ReportesController import ReportesController
+from .SolicitudController import SolicitudController
+from .TemplateController import TemplateController
